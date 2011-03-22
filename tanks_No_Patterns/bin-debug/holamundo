@@ -1,0 +1,11 @@
+Vim Commands
+	(left)h,j(how down),k(key up),l(right) use to move 
+	x to remove characters
+	Esc u undo
+	ctrl r // redo
+	dd Eliminar una linea 
+	a annadir texto
+	zz salir guardar
+	o annadir una linea
+
+	
